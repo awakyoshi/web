@@ -1,0 +1,33 @@
+p {
+    width: 1303px;
+}
+
+h1 {
+    color:blue;
+    background-color:black;
+    padding: 40px;
+    text-align: center;
+}
+
+h2{
+    color:green;
+}
+
+.one{
+    color:red;
+    border: 20px groove black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.two{
+    color:blueviolet;
+    border: 20px dashed black;
+    border-radius: 20px;
+    padding: 20px;
+}
+.three{
+    color:darkmagenta;
+    border: 20px dotted black;
+    border-radius: 20px;
+    padding: 20px;
+}
